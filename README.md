@@ -108,5 +108,10 @@ The project involves setting up an API Gateway that routes requests to an AWS La
     }
     ```
 
+### DynamoDB Screenshot after adding Multiple Entries :
+
+![image](https://github.com/user-attachments/assets/b87f38b3-054c-482f-8b6d-4f76ae32a264)
+
+
 ## Conclusion
 This project highlights how to integrate AWS Lambda, API Gateway, and DynamoDB to build a fully functional serverless CRUD application. The implementation involved overcoming challenges like API Gateway integration and method-based routing in Lambda, resulting in a valuable learning experience.
